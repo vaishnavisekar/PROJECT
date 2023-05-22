@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-22T15:45:43 IST" name="Default suite" finished-at="2023-05-22T15:45:47 IST" duration-ms="3598">
+    <groups>
+    </groups>
+    <test started-at="2023-05-22T15:45:43 IST" name="Default test" finished-at="2023-05-22T15:45:47 IST" duration-ms="3598">
+      <class name="Demo.POSTDemo">
+        <test-method is-config="true" signature="createpPayLoad()[pri:0, instance:Demo.POSTDemo@790da477]" started-at="2023-05-22T15:45:43 IST" name="createpPayLoad" finished-at="2023-05-22T15:45:44 IST" duration-ms="305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createpPayLoad -->
+        <test-method signature="createResource()[pri:0, instance:Demo.POSTDemo@790da477]" started-at="2023-05-22T15:45:44 IST" name="createResource" finished-at="2023-05-22T15:45:46 IST" duration-ms="2240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createResource -->
+        <test-method signature="updateResource()[pri:2, instance:Demo.POSTDemo@790da477]" started-at="2023-05-22T15:45:46 IST" name="updateResource" finished-at="2023-05-22T15:45:47 IST" duration-ms="1030" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateResource -->
+      </class> <!-- Demo.POSTDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
